@@ -1,0 +1,9 @@
+C,6|H,6|D,6|H,K|C,K
+D,K|H,Q|H,7|S,7|H,9
+H,K|H,Q|H,7|H,10|H,9
+H,K|C,Q|D,J|S,10|H,9
+D,K|H,Q|H,3|S,7|H,9
+H,A|H,K|H,Q|H,10|H,J
+H,K|S,K|D,K|C,K|H,10
+H,3|S,3|D,A|C,3|C,7
+H,7|C,7|D,10|S,10|H,9

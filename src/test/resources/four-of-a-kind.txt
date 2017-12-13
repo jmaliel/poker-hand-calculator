@@ -1,0 +1,3 @@
+H,A|S,A|C,A|H,10|C,10
+H,K|S,K|D,K|C,K|H,10
+H,3|S,3|D,A|C,3|C,7
